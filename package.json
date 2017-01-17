@@ -1,0 +1,15 @@
+{
+  "name": "generator-wpf-frontend",
+  "version": "1.0.0",
+  "description": "翁鹏飞前端项目结构djsj",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luckykun/generator-reactpackage.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
