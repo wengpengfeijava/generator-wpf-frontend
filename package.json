@@ -6,7 +6,7 @@
     "author"         : "",
     "repository"     : {
         "type": "git",
-        "url" : ""
+        "url" : "https://github.com/wengpengfeijava/generator-wpf-frontend"
     },
     "keywords"       : [
         "plugin",
